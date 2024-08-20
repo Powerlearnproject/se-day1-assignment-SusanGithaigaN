@@ -119,8 +119,8 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 *Improvement of the prompt above*
 - Imagine you are a skilled career coach specializing in software developer placements. I am a software developer with 2 years of experience in React and Ruby on Rails, looking to apply for a mid-level developer position at Microsoft.
 
-Draft a tailored cover letter for me, highlighting my key projects and leadership experiences.
+- Draft a tailored cover letter for me, highlighting my key projects and leadership experiences.
 The cover letter should:
-Start with a brief introduction of my background. Include bullet points for each major project, specifying the technologies used, the impact on the business, and any leadership roles I held.
-Conclude with a short paragraph that communicates my enthusiasm for the role and my readiness to contribute to innovative projects.
-Use a professional yet approachable tone to reflect my personality and the collaborative culture of the tech industry.
+- Start with a brief introduction of my background. Include bullet points for each major project, specifying the technologies used, the impact on the business, and any leadership roles I held.
+- Conclude with a short paragraph that communicates my enthusiasm for the role and my readiness to contribute to innovative projects.
+- Use a professional yet approachable tone to reflect my personality and the collaborative culture of the tech industry.
